@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M100,100m-90,0a90,90 0,1,1 180,0a90,90 0,1,1 -180,0" />
+
+    <!-- Graduation Cap -->
+    <!-- Cap Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,70 L50,85 L50,105 L100,120 L150,105 L150,85 Z" />
+
+    <!-- Cap Top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,60 L40,80 L100,100 L160,80 Z" />
+
+    <!-- Tassel -->
+    <path
+        android:fillColor="#03DAC6"
+        android:pathData="M160,80 L165,75 L165,85 Z" />
+    <path
+        android:strokeColor="#03DAC6"
+        android:strokeWidth="2"
+        android:pathData="M165,80 L170,90" />
+    <path
+        android:fillColor="#03DAC6"
+        android:pathData="M170,92m-3,0a3,3 0,1,1 6,0a3,3 0,1,1 -6,0" />
+
+    <!-- Calculator/Grade Symbol -->
+    <!-- Calculator Frame -->
+    <path
+        android:fillColor="#BB86FC"
+        android:pathData="M75,110 L125,110 L125,160 L75,160 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2" />
+
+    <!-- Display -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,115 L120,115 L120,130 L80,130 Z" />
+
+    <!-- Grade A+ Text -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M85,120 L88,127 L82,127 Z M90,120 L90,127 M92,120 L95,120 M92,123.5 L95,123.5 M97,120 L100,127 L103,120" />
+</vector>
