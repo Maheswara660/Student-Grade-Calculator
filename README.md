@@ -57,6 +57,30 @@ Here's what you can do with Student Grade Calculator:
 
 - **Persistent Storage**: All data is stored locally using Room Database, ensuring your information is always available offline.
 
+## 📸 Screenshots
+
+### ☀️ Light Mode
+
+|                 Screen 1                 |                 Screen 2                 |                  Screen 3                |
+|------------------------------------------|------------------------------------------|------------------------------------------|
+|               Home Screen                |               GPA Calculator             |           GPA Calculator Modes           |
+| ![Screen1](screenshots/screenshot-1.png) | ![Screen2](screenshots/screenshot-2.png) | ![Screen3](screenshots/screenshot-3.png) |
+|             CGPA Calculator              |              Basic Calculator            |             Student Manager              |
+| ![Screen1](screenshots/screenshot-4.png) | ![Screen2](screenshots/screenshot-5.png) | ![Screen3](screenshots/screenshot-6.png) |
+|        Student Manager Operations        |              History Manager             |                 Settings                 |
+| ![Screen1](screenshots/screenshot-7.png) | ![Screen2](screenshots/screenshot-8.png) | ![Screen3](screenshots/screenshot-9.png) |
+
+### 🌑 Dark Mode
+
+|                 Screen 1                  |                 Screen 2                  |                  Screen 3                 |
+|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+|               Home Screen                 |               GPA Calculator              |           GPA Calculator Modes            |
+| ![Screen1](screenshots/screenshot-10.png) | ![Screen2](screenshots/screenshot-11.png) | ![Screen3](screenshots/screenshot-12.png) |
+|             CGPA Calculator               |              Basic Calculator             |              Student Manager              |
+| ![Screen1](screenshots/screenshot-13.png) | ![Screen2](screenshots/screenshot-14.png) | ![Screen3](screenshots/screenshot-17.png) |
+|        Student Manager Operations         |              History Manager              |                 Settings                  |
+| ![Screen1](screenshots/screenshot-18.png) | ![Screen2](screenshots/screenshot-15.png) | ![Screen3](screenshots/screenshot-16.png) |
+
 ## 👩🏽‍🍳 The Process
 
 I started by designing the app architecture, focusing on a clean separation of concerns using MVVM (Model-View-ViewModel) pattern. This ensured the codebase would be maintainable and scalable.
