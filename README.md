@@ -1,5 +1,28 @@
 # 📱 Student Grade Calculator
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
+  <img src="https://img.shields.io/badge/Kotlin-2.0.21-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Min%20SDK-26-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Min SDK">
+  <img src="https://img.shields.io/badge/Target%20SDK-35-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Target SDK">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-2024.09-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Material%20Design%203-6200EE?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design 3">
+  <img src="https://img.shields.io/badge/Room%20DB-2.6.1-00897B?style=for-the-badge" alt="Room Database">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build%20Tools-35.0.0-orange?style=for-the-badge" alt="Build Tools">
+  <img src="https://img.shields.io/badge/Gradle-8.13.2-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+  <img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/github/stars/Maheswara660/Student-Grade-Calculator?style=for-the-badge" alt="Stars">
+</p>
+
+---
+
 A comprehensive Android application built with Jetpack Compose and Kotlin that helps students calculate grades, manage CGPA, and track their academic performance. This project was developed as a learning experience to master modern Android development practices and Material Design 3.
 
 ## 📦 Technologies
