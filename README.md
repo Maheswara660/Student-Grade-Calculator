@@ -194,12 +194,13 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Maheswara660/Student-Grade-Calculator/issues).
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Maheswara660**
-
-- GitHub: [@Maheswara660](https://github.com/Maheswara660)
-- Repository: [Student-Grade-Calculator](https://github.com/Maheswara660/Student-Grade-Calculator)
+- Author: [Rakamanda Maheswara Rao](https://github.com/Maheswara660/)
+- Co-author-1:
+- Co-author-2:
+- Co-author-3:
+- Co-author-4: [Sankurubhuktha Varun Kumar](https://github.com/sankurubhukthavarunkumar)
 
 ## ⭐ Show your support
 
