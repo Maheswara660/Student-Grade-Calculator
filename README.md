@@ -1,4 +1,6 @@
-# 📱 Student Grade Calculator
+<p align="center">
+  # 📱 Student Grade Calculator
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
@@ -208,4 +210,6 @@ Give a ⭐️ if this project helped you learn something new or if you find it u
 
 ---
 
-*Built with ❤️ for Students*
+<p align="center">
+  Built with ❤️ using Kotlin and Jetpack Compose.
+</p>
