@@ -41,7 +41,7 @@ The application is designed to work completely offline, with student information
 - `ViewModel & LiveData`
 - `Coroutines`
 - `Gson`
-- `Exp4j` (Expression Evaluator)
+- `Exp4j`
 
 ## 🦄 Features
 
