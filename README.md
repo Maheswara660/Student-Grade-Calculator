@@ -23,7 +23,13 @@
 
 ---
 
-A comprehensive Android application built with Jetpack Compose and Kotlin that helps students calculate grades, manage CGPA, and track their academic performance. This project was developed as a learning experience to master modern Android development practices and Material Design 3.
+## 📖 About the Project
+
+Student Grade Calculator is a comprehensive Android application built with Kotlin and Jetpack Compose to help students calculate grades, manage CGPA, and keep track of their academic performance.
+
+The project was developed as a hands-on learning experience focused on modern Android development practices, including Jetpack Compose, Material Design 3, MVVM architecture, Room Database, Kotlin Coroutines, and reactive state management.
+
+The application is designed to work completely offline, with student information and calculation history stored locally using Room Database.
 
 ## 📦 Technologies
 
