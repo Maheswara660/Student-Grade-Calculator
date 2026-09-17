@@ -198,7 +198,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 - Author: [Rakamanda Maheswara Rao](https://github.com/Maheswara660/)
 - Co-author-1: [Regana Ajay](https://github.com/regana-ajay)
-- Co-author-2:
+- Co-author-2: [Regulavalasa Laxmi Mounika](https://github.com/)
 - Co-author-3:
 - Co-author-4: [Sankurubhuktha Varun Kumar](https://github.com/sankurubhukthavarunkumar)
 
