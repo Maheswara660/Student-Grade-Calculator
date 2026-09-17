@@ -208,4 +208,4 @@ Give a ⭐️ if this project helped you learn something new or if you find it u
 
 ---
 
-*Built with ❤️ using Jetpack Compose*
+*Built with ❤️ for Students*
